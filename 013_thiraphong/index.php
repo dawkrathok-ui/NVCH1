@@ -22,8 +22,7 @@
 
 <section class="section-conteaner" id="section1">
 
-
-<img src="./img/closeup-giraffe-zoo.jpg" width="800" height="500" alt="g">
+<img src="./img/closeup-giraffe-zoo.jpg" width="800" height="500" alt="">
 
 
 <h2 class="section-head2">Software Engineer</h2>
